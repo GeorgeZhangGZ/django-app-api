@@ -1,3 +1,3 @@
 # django-app-api
 
-add travic ci.
+add config of travis-ci.
